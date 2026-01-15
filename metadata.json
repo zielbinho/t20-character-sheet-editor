@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Ficha Tormenta 20",
+  "description": "Uma aplicação web para criar, gerenciar e automatizar fichas de personagem para o sistema de RPG Tormenta 20. Permite o preenchimento de atributos, perícias, equipamentos e magias, com cálculos automáticos e salvamento local no navegador.",
+  "requestFramePermissions": []
+}
